@@ -1,0 +1,6 @@
+{
+  "name": "Analizador de Escenas y Movimiento 3D",
+  "description": "Herramienta profesional para directores de fotografía y arquitectos que traduce renders y videos 3D en prompts descriptivos hiperdetallados y sin alucinaciones para motores de video IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
